@@ -1,2 +1,2 @@
-import streamlit as it
-st.title("똥")
+import streamlit as st
+st.title("ㅎㅎ")
